@@ -1,0 +1,18 @@
+This coursework 1 mainly consists of variable, method, constructor, loop, selection, class, object,
+Inheritance, ArrayList, String concepts
+
+issues:
+
+copy code to add dvd and magazine
+
+validation for empty library items at beginning
+
+trying to check out wtih valid title and valid ID
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.util.Set.add(Object)" because "this.checkedOutBy" is null
+	at Item.addCheckedOutBy(Library.java:51)
+	at LibraryMember.checkOutItem(LibraryMember.java:78)
+	at LibraryManagementSystem.main(LibraryManagementSystem.java:60)
+
+6 is supposed to be search
+
+Input validation for book creation variables and other variables
